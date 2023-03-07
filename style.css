@@ -1,0 +1,19 @@
+  div{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 4em;
+}
+
+body {
+    background-color: white;
+    font-family: Arial, sans-serif;
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    max-width: 500px;
+  }
+
+  
